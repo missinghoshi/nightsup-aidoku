@@ -8,7 +8,6 @@
   "contentRating": "safe",
   "description": "Source for nightsup.net",
   "website": "https://nightsup.net",
-  "sourceCode": "https://github.com/missinghoshi/nightsup-aidoku"
-",
+  "sourceCode": "https://github.com/missinghoshi/nightsup-aidoku",
   "main": "source.lua"
 }
