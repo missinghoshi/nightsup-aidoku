@@ -1,12 +1,12 @@
 {
-  "id": "nightsup_V2",
+  "id": "nightsup_madara",
   "name": "NightSup",
   "version": "1.0.0",
   "lang": "en",
-  "author": "Hoshi",
+  "author": "missinghoshi",
   "nsfw": false,
   "contentRating": "safe",
-  "description": "Source for nightsup.net",
+  "description": "WP-Manga based source for nightsup.net",
   "website": "https://nightsup.net",
   "sourceCode": "https://github.com/missinghoshi/nightsup-aidoku",
   "main": "source.lua"
