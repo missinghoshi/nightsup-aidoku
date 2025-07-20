@@ -1,0 +1,7 @@
+[
+  {
+    "key": "genre",
+    "label": "Genre",
+    "type": "text"
+  }
+]
