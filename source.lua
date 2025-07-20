@@ -1,8 +1,8 @@
 local html = require("html")
 local json = require("json")
 
-function id() return "nightsup_madara" end
-function name() return "NightSup" end
+function id() return "nightsup_madara_v2" end
+function name() return "NightSup v2" end
 function lang() return "en" end
 function version() return 1 end
 
