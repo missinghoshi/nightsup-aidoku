@@ -1,0 +1,13 @@
+{
+  "id": "nightsup",
+  "name": "NightSup",
+  "version": "1.0.0",
+  "lang": "en",
+  "author": "missinghoshi",
+  "nsfw": false,
+  "contentRating": "safe",
+  "description": "WP-Manga based source for nightsup.net",
+  "website": "https://nightsup.net",
+  "sourceCode": "https://github.com/missinghoshi/nightsup",
+  "main": "source.lua"
+}
